@@ -1,6 +1,6 @@
 // AddEmployeeForm.jsx
 import React, { useState } from "react";
-import styles from "./AddUser.module.css";
+import styles from "./AddEmployee.module.css";
 
 const AddEmployeeForm = ({ onAddEmployee }) => {
   const [formData, setFormData] = useState({
