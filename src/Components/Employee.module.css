@@ -1,0 +1,16 @@
+.employeeList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .listItem {
+    display: flex;
+    align-items: center;
+    margin-top: 4%;
+    margin-bottom: 10px;
+  }
+  
+  .userIcon {
+    margin-right: 10px;
+  }
+  
